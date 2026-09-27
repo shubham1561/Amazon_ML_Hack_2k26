@@ -1,0 +1,19 @@
+# Challenge data is provided by the organisers: copy it in on each machine, never commit it
+student_resource/
+*.tsv
+
+# Caches, intermediate artefacts and results (tens of GB)
+work/
+work_v2/
+output/
+output_v2/
+*.pkl
+*.npz
+*.zip
+*.log
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
