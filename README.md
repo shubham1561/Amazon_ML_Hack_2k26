@@ -2,7 +2,9 @@
 
 An end-to-end solution for the Amazon ML Challenge business entity-resolution task.
 
-**Start here:** [`code/business_entity_resolution/CLUSTER_RUN.md`](code/business_entity_resolution/CLUSTER_RUN.md). It covers requirements, setup, the one-command run, timings, troubleshooting, and a summary of the approach.
+**Start here:**
+- [`CLAUDE.md`](CLAUDE.md): the complete handoff report (task, what was built, results, how to run, gotchas, next steps).
+- [`code/business_entity_resolution/CLUSTER_RUN.md`](code/business_entity_resolution/CLUSTER_RUN.md): cluster setup, the one-command run, timings and troubleshooting.
 
 ## On a new machine / cluster
 
